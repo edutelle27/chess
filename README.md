@@ -1,2 +1,2 @@
 # chess
-Programa php para Open de Ajedrez
+Programa php para Open de Ajedrez concesión de premios.
