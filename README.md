@@ -1,2 +1,2 @@
 # chess
-Programa php para Open de Ajedrez
+Profesor y jugador de ajedrez en los ratos libres
